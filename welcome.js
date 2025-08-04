@@ -1,1 +1,1 @@
-console.log("QWERTY");
+console.log("This is Javascript Practice file");
